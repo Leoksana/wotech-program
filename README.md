@@ -9,11 +9,11 @@ Read me file uses markdown syntex to edit any text formulas or codes.
 
 
 ## My major project
-1. Java online banking app
-2. Python AI tool
-3. My own social network
+1. Java online banking app - not there yet 😂
+2. Python AI tool - whaaat?
+3. My own social network - getting there
 
-## My favoutite part of code
+## My favourite part of code (Elchin said to copy it, it is actually his)
 ``` java
       double temp = -15.0;
 
