@@ -2,6 +2,8 @@ Read me file uses markdown syntex to edit any text formulas or codes.
 
 Often, repositories include a README file, a file with information about your project. README files are written in Markdown, which is an easy-to-read, easy-to-write language for formatting plain text. 
 
+Making changes to new branch
+
 # Welcome to my repository
 
 ## My skills
